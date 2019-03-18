@@ -7,3 +7,5 @@ var x = function foo() {
     var g = 1;
     return 42;
    }
+
+   var deneme = 2;
